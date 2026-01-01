@@ -44,4 +44,10 @@ assets/font/PixelOperator.ttf, arial.ttf.
 
 assets/music/a.mp3, b.mp3, click.wav, win.mp3, lose.mp3
 
+You can also download the game on Internet Archive and itch via the link:
+archive  :    https://archive.org/details/@long_ho_ng497
+itch     :    https://hoanglonggg.itch.io
+
+Game code :  Github (You are here)
+
 Created with ❤️ by a Grade 8 Student.
